@@ -1,4 +1,4 @@
-# GTFS-route-shapes
+# dbdata
 A simple script to generate a single geoJSON shape for each transit route in a GTFS archive.
 
 ### Why you might need this
